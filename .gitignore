@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Large binary files
+*.glb
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.psd
+*.fbx
+*.obj
+*.asset
+
+# Video files
+Assets/Videos/
+
+# Audio files
+Assets/Audios/
+
+# 3D Models
+Assets/Models/
+Assets/Gwangju_3D asset/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS generated
+.DS_Store
+Thumbs.db
