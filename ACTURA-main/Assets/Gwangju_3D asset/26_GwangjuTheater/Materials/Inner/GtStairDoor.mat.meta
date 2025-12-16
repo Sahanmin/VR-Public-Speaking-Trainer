@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 2cb310fdb47ba7d4489739e58b5dc5c4
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Inner/GtStairDoor.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:e488e82142ebe57d6e14d5f845e14ae1cf9605cc2654861ef84811157a3f367a
+size 403

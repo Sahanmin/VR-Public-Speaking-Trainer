@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 1a4d20c2a85cbe247ba9dbac2307aa86
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Prefabs/GwangjuTheater_Exterior.prefab
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:22afed7f05200e31e8fab700f6ce027df6c34eb0839c3ee2bb8cb9c2eb1ba965
+size 376

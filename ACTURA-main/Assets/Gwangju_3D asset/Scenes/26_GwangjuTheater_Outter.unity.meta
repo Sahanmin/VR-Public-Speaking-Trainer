@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: ffb6d7378e0d11b449b0bf808a2bcc55
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/Scenes/26_GwangjuTheater_Outter.unity
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d105798afd69cdf1bb0f0d2b24d3be77e1bd9ec809c64ef1f8330f1435eca0
+size 358

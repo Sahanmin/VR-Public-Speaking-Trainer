@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 33290384c3c3aeb46a1d5fd72302cf52
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Outter/EtcGt.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:85587c440524d44c7f4383ee3eea11f695f614d0f35f3d88da1cb8b94b353741
+size 398

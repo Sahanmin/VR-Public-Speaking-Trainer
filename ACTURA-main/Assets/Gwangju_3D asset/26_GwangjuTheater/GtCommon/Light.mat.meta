@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 7bed9e81e37b1b44194eaf8d29b6ca35
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/GtCommon/Light.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d520dc275fefe907de76143e910b87c0ed74bf660241d2052733f5890142541
+size 390

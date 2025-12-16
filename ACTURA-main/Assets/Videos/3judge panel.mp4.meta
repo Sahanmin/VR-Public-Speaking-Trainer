@@ -1,18 +1,3 @@
-fileFormatVersion: 2
-guid: ec7e665cdc28e344195baa1c6546badd
-VideoClipImporter:
-  externalObjects: {}
-  serializedVersion: 3
-  frameRange: 0
-  startFrame: -1
-  endFrame: -1
-  colorSpace: 0
-  deinterlace: 0
-  encodeAlpha: 0
-  flipVertical: 0
-  flipHorizontal: 0
-  importAudio: 1
-  targetSettings: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e6d63c741cb92447593aa52cde82798fb721aa2e36506bd935545e75a2c3bb
+size 354

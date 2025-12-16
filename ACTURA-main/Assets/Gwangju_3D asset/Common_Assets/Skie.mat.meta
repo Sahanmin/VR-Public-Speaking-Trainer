@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1d813fc96ec81754e98ab3f96fd73009
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/Common_Assets/Skie.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:aac519bae3c558cfbd7327c238a8da007e7a77fe12e0479640076dbb97a8263c
+size 376

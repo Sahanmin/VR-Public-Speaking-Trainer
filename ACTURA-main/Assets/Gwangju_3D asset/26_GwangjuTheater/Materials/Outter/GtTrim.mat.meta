@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a8b9825619f9e1e42a50074861264959
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Outter/GtTrim.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c8325b1ac82f334fea4e57658d04ad83726e20e5fd7ddca5898c033ca8cad2
+size 399

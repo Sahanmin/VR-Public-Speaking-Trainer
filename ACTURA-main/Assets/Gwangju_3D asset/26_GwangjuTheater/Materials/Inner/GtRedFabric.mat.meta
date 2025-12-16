@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f18e748c69120574abf4c36561d3e683
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Inner/GtRedFabric.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d83efd8a6ab7f4cd95a126f52d84d07e7852530f9b37319b853e1ca4693981d
+size 403

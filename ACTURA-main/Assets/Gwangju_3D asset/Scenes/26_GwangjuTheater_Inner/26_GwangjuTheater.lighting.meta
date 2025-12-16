@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 181dbd3ec3b90964885d745bfbf427d5
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 4890085278179872738
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/Scenes/26_GwangjuTheater_Inner/26_GwangjuTheater.lighting
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a343e2ef4e0ac637f94ef9d165fea147b94cc9ec323edf1c996029c2498de25
+size 423

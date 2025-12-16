@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: bae7a876944d019489f48320707bcff7
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Inner/GtGreenTile.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11886ba4beaaaf948dc9d4492f915a76481ca9bb05ae1ec258535d0367be351
+size 403

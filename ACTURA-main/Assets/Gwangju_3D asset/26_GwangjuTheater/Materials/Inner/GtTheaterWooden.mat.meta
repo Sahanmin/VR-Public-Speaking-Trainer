@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: dd300996081021147a7e5f21158bbb7d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Inner/GtTheaterWooden.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:453e5ddf13139bd81476510028c86419179a33e3c68ba9f3e14c96d1d0d9a96e
+size 407

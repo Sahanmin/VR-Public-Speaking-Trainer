@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 9a9f92dd4acf6bd48ad56b6223ccadea
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/Common_Assets/Bg_Preset/Ground_Checker.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:dabe48133c5be654e281dce003a57059f9c4b1b2dadf24343e14f7572150bd75
+size 396

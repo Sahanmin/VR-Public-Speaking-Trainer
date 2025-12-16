@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 939adca89abebb648a9e3640a5fc11ab
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 282533
-  packageName: Gwangju Theater
-  packageVersion: 1.0
-  assetPath: Assets/Gwangju_3D asset/26_GwangjuTheater/Materials/Inner/Screen.mat
-  uploadId: 658131
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e8b518faf0288eac216d109a69df8c6822bded0f67781eaecbe465e6f98a355
+size 398
