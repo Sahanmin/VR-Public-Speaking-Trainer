@@ -9,29 +9,35 @@
 [Mm]emoryCaptures/
 [Rr]ecordings/
 
-# Large binary files
+# Large binary files - models, audio, video
 *.glb
 *.mp3
 *.mp4
 *.mov
 *.avi
+*.wav
+*.fbx
+*.obj
+*.ogg
+
+# Images (keep .meta files)
 *.png
 *.jpg
 *.jpeg
 *.psd
-*.fbx
-*.obj
+*.tif
+*.tga
+*.exr
+
+# Unity asset files (large binaries)
 *.asset
 
-# Video files
-Assets/Videos/
-
-# Audio files
-Assets/Audios/
-
-# 3D Models
-Assets/Models/
-Assets/Gwangju_3D asset/
+# Entire large directories
+ACTURA-main/Assets/Videos/
+ACTURA-main/Assets/Audios/
+ACTURA-main/Assets/Models/
+ACTURA-main/Assets/Gwangju_3D asset/
+ACTURA-main/Assets/Samples/
 
 # Visual Studio / Rider
 .vs/
